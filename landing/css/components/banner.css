@@ -1,0 +1,32 @@
+.banner {
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+}
+
+.le-wagon {
+  padding: 180px;
+  color: white;
+  width: 800px;
+}
+
+.le-wagon a {
+  height: 30px;
+  width: 90px;
+  color: white;
+  background-color: rgb(149, 197, 76);
+  border-radius: 30px;
+  padding: 13px 35px;
+  display: block;
+  margin: 20px 0;
+}
+
+.le-wagon h2 {
+  font-size: 33px;
+}
+
+.le-wagon p {
+  font-size: 20px;
+  color: rgb(200, 199, 199);
+}
